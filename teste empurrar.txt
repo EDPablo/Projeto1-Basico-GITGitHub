@@ -1,0 +1,3 @@
+Essas anotocoes estao sendo inseridas no Git Local para serem carregadas no GitHUb
+são anotacoes de bloco de notas para testar a função empurrar do Git local para o 
+GITHUb.
